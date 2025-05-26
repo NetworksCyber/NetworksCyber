@@ -44,12 +44,7 @@ J’interviens principalement dans des compétitions CTF et mène une veille con
   
 ---
 
-## 📡 Envie de suivre ou de me contacter ?
-
-Tu es une entreprise, une structure ou simplement passionné d’OSINT ?  
-Tu veux me proposer une collaboration ou échanger autour d’un projet ?
-
-👉 **Contacte-moi ici** :
+## 📡 Contacte-moi ici
 
 - 💼 [LinkedIn – kilian-petit](https://www.linkedin.com/in/kilian-petit)
 - 💬 Discord : `_networks`
